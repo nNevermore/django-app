@@ -5,7 +5,4 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
-<<<<<<< HEAD
-=======
 .mojedane
->>>>>>> a70ba79d28db0f9b1bc84123c04d0d499a6facdf
